@@ -1,5 +1,6 @@
 /*
-
+    douzone-math 파일 모듈 테스트
+    하나의 프로젝트 안의 모듈 간 export/import 할 때 방식
 
 */
 
@@ -9,10 +10,3 @@ console.log(math.PI);
 
 console.log(math.max(150, 200, 30, 50, 70));
 console.log(math.min(150, 200, 30, 50, 70));
-
-
-
-
-
-
-
